@@ -1,0 +1,42 @@
+{
+    "name": "token list WGM",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "keywords": [
+    "wagmi",
+    "defi",
+    "ethereum",
+    "bridge"
+    ],
+    "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 0
+    },
+    "tokens": [
+    {
+    "chainId": 11111,
+    "address": "0x3f54c7a3746C0409DD185027397907488F792372",
+    "decimals": 18,
+    "name": "Pangolin",
+    "symbol": "wagmiPNG",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+    "chainId": 11111,
+    "address": "0x3Ee7094DADda15810F191DD6AcF7E4FFa37571e4",
+    "decimals": 18,
+    "name": "Wrapped WAGMI",
+    "symbol": "wWAGMI",
+    "logoURI": "https://cryptologos.cc/logos/whitecoin-xwc-logo.png?v=018"
+    },
+    {
+    "chainId": 11111,
+    "address": "0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe",
+    "decimals": 18,
+    "name": "OG",
+    "symbol": "OG",
+    "logoURI": "https://rcd-media.com/wagmi/og.png"
+    }
+    ],
+    "timestamp": "2021-08-27T12:00:00+00:00"
+    }
