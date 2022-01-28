@@ -1,6 +1,6 @@
 {
     "name": "token list WGM",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png",
     "keywords": [
     "wagmi",
     "defi",
@@ -27,11 +27,11 @@
     "decimals": 18,
     "name": "Wrapped WAGMI",
     "symbol": "wWAGMI",
-    "logoURI": "https://cryptologos.cc/logos/whitecoin-xwc-logo.png?v=018"
+    "logoURI": "https://raw.githubusercontent.com/antiyro/WagmiTokenList/master/wagmi.png"
     },
     {
     "chainId": 11111,
-    "address": "0xf1db872E6454D553686b088c1Ea3889cF2FE3ABe",
+    "address": "0x93c9699B00BE288c23AC9aD924769fA0C7B8D5A9",
     "decimals": 18,
     "name": "OG",
     "symbol": "OG",
