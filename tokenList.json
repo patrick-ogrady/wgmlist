@@ -36,6 +36,14 @@
     "name": "OG",
     "symbol": "OG",
     "logoURI": "https://rcd-media.com/wagmi/og.png"
+    },
+    {
+    "chainId": 11111,
+    "address": "0x4eaA03A9C9c9CE745517538d262653B9e43c51f2",
+    "decimals": 18,
+    "name": "staySAFU",
+    "symbol": "staySAFU",
+    "logoURI": "https://rcd-media.com/wagmi/staySAFU.png"
     }
     ],
     "timestamp": "2021-08-27T12:00:00+00:00"
